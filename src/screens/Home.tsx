@@ -52,7 +52,7 @@ export default function Home() {
       <Text 
         style={styles.title} 
         testID='welcome'
-      > Welcome, Rafael</Text>
+      > Welcome, Lupércio</Text>
 
       <Text style={styles.grettings}>{gretting}</Text>
 
